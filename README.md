@@ -13,4 +13,4 @@
 #### Connect me via vutruonggiang452002@gmail.com
 
 
-#### Copyright &#169; 2022 giang.cát.lượng
+#### Copyright &#169; 2022 Trường Giang
