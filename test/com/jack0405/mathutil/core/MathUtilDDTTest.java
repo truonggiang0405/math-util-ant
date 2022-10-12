@@ -21,10 +21,6 @@ public class MathUtilDDTTest {
                                {24,4},
                                {120,5},
                                {720,6}};
-        // ta phải map 2 cột của từng dòng vào 2 đầu ? của hàm so sánh
-        //Assert.assertEquals(???, MathUtil.getFactorial(???));
-        //Assert.assertEquals(cột 0, MathUtil.getFactorial(cột 1));
-        //map value từ mảng vòa 2 biến, nhồi 2 biến này vào hàm so sánh
  
     }
     @Parameterized.Parameter(value = 0)
