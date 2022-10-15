@@ -13,7 +13,7 @@ import com.jack0405.mathutil.core.MathUtil;
 public class Main {
 
     public static void main(String[] args) {
-        
+        System.out.println("This message comes from US-build JAR[]");
            tryTDDFirst();
            
     }
